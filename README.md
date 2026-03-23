@@ -1,4 +1,4 @@
-# ERP Agent - 企业资源计划知识图谱系统
+# ERP Agent - 基于本体的时序知识图谱
 
 🚀 基于 FastAPI + Vue 3 + Neo4j 的 ERP 知识图谱可视化与分析平台
 
