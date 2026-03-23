@@ -225,7 +225,12 @@ python verify_import.py
 - [数据导入验证报告](docs/数据导入验证报告_20260323.md) - 数据质量和完整性验证
 
 ---
-
+这个是EBS表清单的线上版，所有模块的都在  https://etrm.live/etrm-12.2.2/etrm.oracle.com/pls/trm1222/etrm_search.html 
+其中主要模块的地址是PO：https://etrm.live/etrm-12.2.2/etrm.oracle.com/pls/trm1222/PO_Tables120b.html?n_file_id=1157&c_mode=INLINE
+AP：https://etrm.live/etrm-12.2.2/etrm.oracle.com/pls/trm1222/SQLAP_Tables918c.html?n_file_id=1154&c_mode=INLINE
+AR：https://etrm.live/etrm-12.2.2/etrm.oracle.com/pls/trm1222/AR_Tables9ecf.html?n_file_id=1181&c_mode=INLINE
+XLA：https://etrm.live/etrm-12.2.2/etrm.oracle.com/pls/trm1222/XLA_Tables4d89.html?n_file_id=1499&c_mode=INLINE
+GL：https://etrm.live/etrm-12.2.2/etrm.oracle.com/pls/trm1222/SQLGL_Tables0494.html?n_file_id=1112&c_mode=INLINE
 ## 🧪 测试
 
 ```bash
